@@ -1,0 +1,6 @@
+[submodule "yogafrontend"]
+	path = yogafrontend
+	url = https://github.com/Gaurav-88074/yogafrontend
+[submodule "yogabackend"]
+	path = yogabackend
+	url = https://github.com/Gaurav-88074/yogabackend
